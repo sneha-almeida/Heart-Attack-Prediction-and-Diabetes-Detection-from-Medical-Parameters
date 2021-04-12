@@ -1,0 +1,1 @@
+# Heart-Attack-Prediction-and-Diabetes-Detection-from-Medical-Parameters
